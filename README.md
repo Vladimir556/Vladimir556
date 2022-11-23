@@ -1,4 +1,5 @@
 # Hi there, I'm Vladimir 👋
+![](https://komarev.com/ghpvc/?username=Vladimir556&color=blueviolet)
 ## 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir556&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 #
