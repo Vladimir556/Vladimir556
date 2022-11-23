@@ -1,5 +1,8 @@
 # Hi there, I'm Vladimir 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir556&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir556&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
