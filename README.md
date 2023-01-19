@@ -3,7 +3,7 @@
 ## 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir556&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir556&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir556&show_icons=true&theme=transparent) -->
 
 
 <!--
